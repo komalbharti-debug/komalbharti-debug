@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**komalbharti-debug/komalbharti-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Komal 👋
 
-Here are some ideas to get you started:
+- 💻 Frontend learner — HTML, CSS, JavaScript, Java
+- 🌐 Portfolio: [Live Demo](https://portfoli-teal.vercel.app)
+- ✨ I like building  websites
+- 📧 Contact: komal241b321@gmail.com | LinkedIn: https://www.linkedin.com/in/komal-bharti-a16b5a30b/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+HTML • CSS • JavaScript  • Git
+
+## 🚀 Projects
+- **Personal Portfolio** — My portfolio website  
+- **AI Email UI** — A responsive email page
+
+
